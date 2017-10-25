@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of suryaone
+The basic files are in gh-pages branch.
+This info added on 25oct2017.
 
 You can use the [editor on GitHub](https://github.com/sury1947/suryaone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
